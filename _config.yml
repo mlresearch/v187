@@ -1,0 +1,103 @@
+---
+booktitle: Proceedings on ``I Can't Believe It's Not Better!  - Understanding Deep
+  Learning Through Empirical Falsification'' at NeurIPS 2022 Workshops
+year: '2022'
+shortname: ICBINB 22
+volume: '187'
+start: 2022-12-03
+end: 2022-12-03
+published: 2023-02-28
+conference_number: '3'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: icbinb-2022
+month: 0
+cycles: false
+bibtex_editor: Antor\'an, Javier and Blaas, Arno and Feng, Fan and Ghalebikesabi,
+  Sahra and Mason, Ian and Pradier, Melanie F. and Rohde, David and Ruiz, Francisco
+  J. R. and Schein, Aaron
+editor:
+- given: Javier
+  family: Antorán
+- given: Arno
+  family: Blaas
+- given: Fan
+  family: Feng
+- given: Sahra
+  family: Ghalebikesabi
+- given: Ian
+  family: Mason
+- given: Melanie F.
+  family: Pradier
+- given: David
+  family: Rohde
+- given: Francisco J. R.
+  family: Ruiz
+- given: Aaron
+  family: Schein
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings on ``I Can't Believe It's Not Better!  - Understanding Deep Learning Through Empirical Falsification'' at NeurIPS 2022 Workshops
+    Held in New Orleans, Louisiana, USA on 03 December 2022
+
+  Published as Volume 187 by the Proceedings of Machine Learning Research on 28 February 2023.
+
+  Volume Edited by:
+    Javier Antorán
+    Arno Blaas
+    Fan Feng
+    Sahra Ghalebikesabi
+    Ian Mason
+    Melanie F. Pradier
+    David Rohde
+    Francisco J. R. Ruiz
+    Aaron Schein
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 03 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v187"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v187
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v187
+email: ''
+conference:
+  name: Proceedings on ``I Can't Believe It's Not Better!  - Understanding Deep Learning
+    Through Empirical Falsification'' at NeurIPS 2022 Workshops
+  url: https://sites.google.com/view/icbinb-2022/
+  location: New Orleans, Louisiana, USA
+  dates:
+  - 2022-12-03
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v187/icbinb22.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v187/icbinb22.bib
