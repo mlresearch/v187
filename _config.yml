@@ -1,6 +1,6 @@
 ---
-booktitle: Proceedings on ``I Can't Believe It's Not Better!  - Understanding Deep
-  Learning Through Empirical Falsification'' at NeurIPS 2022 Workshops
+booktitle: Proceedings on "I Can't Believe It's Not Better!  - Understanding Deep
+  Learning Through Empirical Falsification" at NeurIPS 2022 Workshops
 year: '2022'
 shortname: ICBINB 22
 volume: '187'
@@ -39,7 +39,7 @@ editor:
   family: Schein
 title: Proceedings of Machine Learning Research
 description: |
-  Proceedings on ``I Can't Believe It's Not Better!  - Understanding Deep Learning Through Empirical Falsification'' at NeurIPS 2022 Workshops
+  Proceedings on "I Can't Believe It's Not Better!  - Understanding Deep Learning Through Empirical Falsification" at NeurIPS 2022 Workshops
     Held in New Orleans, Louisiana, USA on 03 December 2022
 
   Published as Volume 187 by the Proceedings of Machine Learning Research on 28 February 2023.
@@ -89,8 +89,8 @@ volume_type: Volume
 volume_dir: v187
 email: ''
 conference:
-  name: Proceedings on ``I Can't Believe It's Not Better!  - Understanding Deep Learning
-    Through Empirical Falsification'' at NeurIPS 2022 Workshops
+  name: Proceedings on "I Can't Believe It's Not Better!  - Understanding Deep Learning
+    Through Empirical Falsification" at NeurIPS 2022 Workshops
   url: https://sites.google.com/view/icbinb-2022/
   location: New Orleans, Louisiana, USA
   dates:

@@ -40,8 +40,8 @@ author:
   family: Caterini
 date: 2023-02-28
 address:
-container-title: Proceedings on ``I Can't Believe It's Not Better!  - Understanding
-  Deep Learning Through Empirical Falsification'' at NeurIPS 2022 Workshops
+container-title: Proceedings on "I Can't Believe It's Not Better!  - Understanding
+  Deep Learning Through Empirical Falsification" at NeurIPS 2022 Workshops
 volume: '187'
 genre: inproceedings
 issued:
