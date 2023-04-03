@@ -28,10 +28,10 @@ issn: 2640-3498
 id: likhomanenko23a
 month: 0
 tex_title: 'Continuous Soft Pseudo-Labeling in ASR '
-firstpage: 65
+firstpage: 66
 lastpage: 84
-page: 65-84
-order: 65
+page: 66-84
+order: 66
 cycles: false
 bibtex_author: Likhomanenko, Tatiana and Collobert, Ronan and Jaitly, Navdeep and
   Bengio, Samy
